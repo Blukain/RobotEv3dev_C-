@@ -30,6 +30,6 @@ Once everthing is installed, you should configure a ethernet connection in order
 Before starting to upload a compiled file you might put your project into Clion project folder or another folder it doesnt matter but to make it simpler we will use Clion one.
 In this case just copy extracted folder ev3dev-lang-cpp-jessie into CLion project folder and thats all. Once you open up the project in Clion after build is done with no errors you can proceed with its upload.
 
-To upload a file into the robot just go at bottom of Clion on terminal tab, go to this folder: ~/CLionProjects/ev3dev-lang-cpp-jessie/cmake-build-debug, where your exe file will be generated, and just type: "scp filename robot@ev3dev.local:/home/robot", insert your password and you will be done.
+To upload a file into the robot just go at bottom of Clion on terminal tab, go to this folder: ~/CLionProjects/ev3dev-lang-cpp-jessie/cmake-build-debug, where your exe file will be generated, and just type: "scp filename robot@ev3dev.local:/home/robot", insert password ("maker") and you will be done.
 
 Now start your program on ev3 and enjoy!
