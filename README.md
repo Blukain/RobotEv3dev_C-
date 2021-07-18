@@ -1,4 +1,4 @@
-# RobotEv3dev_C-
+# Robot Ev3dev C++
 Repo C++ based on Ev3dev
 
 ## Intro
