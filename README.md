@@ -33,3 +33,8 @@ In this case just copy extracted folder ev3dev-lang-cpp-jessie into CLion projec
 To upload a file into the robot just go at bottom of Clion on terminal tab, go to this folder: ~/CLionProjects/ev3dev-lang-cpp-jessie/cmake-build-debug, where your exe file will be generated, and just type: "scp filename robot@ev3dev.local:/home/robot", insert password ("maker") and you will be done.
 
 Now start your program on ev3 and enjoy!
+
+### Connect to multiple Brick
+Hostname must be changed, and give the possibility to connect via bluetooth simultaneously to many brick.
+Ssh into the brick, type "sudo ev3dev-config", go into advanced options, select "A1 Hostname".
+Edit as you will, press OK and exit. Thats it.
