@@ -38,3 +38,6 @@ Now start your program on ev3 and enjoy!
 Hostname must be changed, and give the possibility to connect via bluetooth simultaneously to many brick.
 Ssh into the brick, type "sudo ev3dev-config", go into advanced options, select "A1 Hostname".
 Edit as you will, press OK and exit. Thats it.
+
+# Documentation
+Use Lick [Docs](http://Blukain.github.io/RobotEv3dev_C-)
