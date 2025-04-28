@@ -40,4 +40,4 @@ Ssh into the brick, type "sudo ev3dev-config", go into advanced options, select 
 Edit as you will, press OK and exit. Thats it.
 
 # Documentation
-Use Lick [Docs](http://Blukain.github.io/RobotEv3dev_C-)
+Use Lick [Docs](https://Blukain.github.io/RobotEv3dev_C-)
